@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "beautifulsoup4>=4.14.2",
+    "gradio>=5.49.1",
     "ipykernel>=7.1.0",
     "openai>=2.8.0",
     "requests>=2.32.5",
